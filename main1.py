@@ -1,0 +1,1 @@
+url_bd = 'https://app.diagrams.net/?tags=%7B%7D&title=Online_StoreBD.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1ME47z0jUagIpY5CXG2fj--v3T_4bR6mY%26export%3Ddownload'
